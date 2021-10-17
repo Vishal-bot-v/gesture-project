@@ -1,0 +1,19 @@
+.emoji
+{
+    font-size: 48px;;
+}
+
+.heading
+{
+    font-size: 18px;
+    border-radius: 10px;
+    letter-spacing: 10px;
+}
+
+label{
+    font-size: 14px;
+    color: orange;
+    padding: 6px;
+    border-radius: 10px;
+    background-color: white;
+}
